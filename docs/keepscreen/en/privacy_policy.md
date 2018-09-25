@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy
+---
+
 ## Privacy Policy
 
 A-construction built the Keep Screen app as an Ad Supported app. This SERVICE is provided by A-construction at no cost and is intended for use as is.
